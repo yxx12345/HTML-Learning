@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>test</title>
+	</head>
+	<body>
+		<!--注释-->
+		<h1>a little test</h1>
+		<br>
+		<p>lalala</p>
+		<b>加粗字体</b>
+		<i>斜体</i>
+		<big>字体加大</big>
+		</br>
+		<small>字体减小</small>
+		<sub>下标</sub>
+		<sup>上标</sup>
+		<br>
+		<img border="0" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497955117814&di=38fd473debca1e9106b2f327c4db60bf&imgtype=0&src=http%3A%2F%2Fi.3454.com%2Fc%2F1476927771758.gif" alt="王者荣耀" width="100" height="125">
+		<table border="1" style="background-color:pink">
+			<tr>
+				<td>1</td>
+			<tr>
+			<tr>
+				<td>1</td>
+				<td>2</td>
+			</tr>
+		</table>
+	</body>
+</html>
